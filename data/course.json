@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "563af061-106b-b1e4-e8d2-bc3d6873e258"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Electromagnetic Fields, Forces, and Motion",
+  "course_description": "This course examines electric and magnetic quasistatic forms of Maxwell's equations applied to dielectric, conduction, and magnetization boundary value problems. Topics covered include: electromagnetic forces, force densities, and stress tensors, including magnetization and polarization; thermodynamics of electromagnetic fields, equations of motion, and energy conservation; applications to synchronous, induction, and commutator machines; sensors and transducers; microelectromechanical systems; propagation and stability of electromechanical waves; and charge transport phenomena.\n\n##### Acknowledgments\n\nThe instructor would like to thank Thomas Larsen and Matthew Pegler for transcribing into LaTeX the homework problems, homework solutions, and exam solutions.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.641",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Online Textbook",
+    "Course Introduction"
+  ],
+  "title": "Course Metadata"
+}
